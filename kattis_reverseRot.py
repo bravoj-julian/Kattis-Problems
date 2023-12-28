@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 20 15:11:42 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/reverserot
 
 alpha = ["a","b","c","d","e","f","g","h","i",'j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','_','.']

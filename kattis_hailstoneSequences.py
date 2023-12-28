@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 23 20:19:46 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/hailstone2
 
 x = int(input())

@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  8 22:23:27 2022
-
-@author: danger bravo
-"""
-
+# https://open.kattis.com/problems/nastyhacks
 
 def nasty_Hack():
     n  = int(input())

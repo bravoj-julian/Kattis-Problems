@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 19 17:04:07 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/bookingaroom
 
 import random as rm

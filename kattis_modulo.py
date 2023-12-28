@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 17 01:44:42 2023
-
-@author: danger bravo
-"""
 #https://open.kattis.com/problems/modulo
 #https://realpython.com/python-modulo-operator/
 uniqueModulo = []

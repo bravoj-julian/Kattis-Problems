@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 15 13:49:26 2022
 
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/hangman
 
 n = input().upper()

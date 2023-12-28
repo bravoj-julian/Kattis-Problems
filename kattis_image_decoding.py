@@ -1,9 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 20 12:42:16 2022
+# https://open.kattis.com/problems/imagedecoding
 
-@author: danger bravo
-"""
+#UNSOLVED
 
 n = int(input())
 line = ""

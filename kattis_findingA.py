@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  4 18:34:00 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/findingana
 
 n = input()
 # print(len(n))

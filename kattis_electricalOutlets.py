@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 14 12:26:36 2022
+# https://open.kattis.com/problems/electricaloutlets
 
-@author: danger bravo
-"""
 t = "test"
 outlet = 0
 out = []

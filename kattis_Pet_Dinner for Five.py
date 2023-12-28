@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 12 18:15:18 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/pet?tab=submissions
 
 def dinner_Five():
     high_score = 0

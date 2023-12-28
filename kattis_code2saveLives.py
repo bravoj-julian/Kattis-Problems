@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 19 16:20:35 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/codetosavelives
 
 x = int(input())

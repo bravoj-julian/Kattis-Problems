@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 16 23:30:11 2023
-
-@author: danger bravo
-"""
-
 # https://open.kattis.com/problems/stickykeys
 
 s = input()

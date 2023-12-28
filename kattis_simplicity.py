@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct  6 14:38:43 2022
-
-@author: danger bravo
-"""
+#HAVE TO FIND SOURCE OF PROBLEM.
 
 number ={
     "0":"zero",

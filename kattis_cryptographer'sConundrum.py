@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 17 11:04:36 2023
-
-@author: danger bravo
-"""
-
 # alpha = ["a","b","c","d","e","f","g","h","i",'j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 # print(alpha.index("z"))
 # print(len(alpha))

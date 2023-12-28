@@ -1,4 +1,5 @@
 # https://open.kattis.com/problems/eyeofsauron
+
 inp = str(input())
 def sauron(inp): 
     if "()" in inp:

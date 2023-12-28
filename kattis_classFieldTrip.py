@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 20 18:57:01 2023
 
-@author: danger bravo
-"""
 #https://open.kattis.com/problems/classfieldtrip
 
 ann = input()

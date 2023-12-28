@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 20 17:25:15 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/mult
 
 divNumber = 0

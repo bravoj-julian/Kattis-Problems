@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 16 15:05:46 2022
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/nsum
 
 def n_Sum():

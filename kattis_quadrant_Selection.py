@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 24 14:38:13 2022
-
-@author: danger bravo
-"""
-
-#https://open.kattis.com/problems/quadrant
+# https://open.kattis.com/problems/quadrant
 
 x = input()
 x = int(x)

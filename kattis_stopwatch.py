@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 18:29:50 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/stopwatch
 
 n = int(input())
 

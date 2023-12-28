@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  8 18:54:38 2022
-
-@author: danger bravo
-"""
+# source unknown
 
 # volume_Level = 7
 # n = int(input())

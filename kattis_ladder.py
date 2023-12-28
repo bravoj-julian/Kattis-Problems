@@ -1,14 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 15 18:57:34 2022
-
-@author: danger bravo
-"""
-
 # https://www.youtube.com/watch?v=Zrp7NyO12ho
 # math.sin(math.radians()) sin function returns answer in radians,
 # so, use radians function to convert to degrees.
 # hheght / sin(anfgle)
+
 # https://open.kattis.com/problems/ladder
 def ladder():
     import math 

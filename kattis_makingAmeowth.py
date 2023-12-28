@@ -39,19 +39,3 @@ totalTime = timeI + timeMeow
 # print(countMeow)
 # print(countI)   
 print(totalTime)
-    
-11
-2
-11
-2
-11
-2
-11
-2
-11
-2
-11
-2
-11
-2
-

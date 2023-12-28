@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  4 17:28:28 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/gcvwr
 
 n = input()
 g, t, n = n.split()

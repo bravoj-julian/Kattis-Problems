@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 18 19:01:58 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/karte
 
 s = input()

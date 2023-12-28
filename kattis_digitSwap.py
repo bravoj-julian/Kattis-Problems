@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  4 23:48:01 2022
-
-@author: danger bravo
-"""
+#https://open.kattis.com/problems/digitswap
 
 n = int(input())
 reverseNumber = ""

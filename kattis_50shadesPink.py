@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 15 13:15:18 2022
+# https://open.kattis.com/problems/fiftyshades
 
-@author: danger bravo
-"""
 
 def shade_Pink():
     n = int(input())
@@ -18,4 +15,4 @@ def shade_Pink():
     return x
 print(shade_Pink())
 
-# https://open.kattis.com/problems/fiftyshades
+

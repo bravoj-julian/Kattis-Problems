@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  4 19:55:09 2022
-
-@author: danger bravo
-"""
+#
 
 n = input()
 a, b = n.split()

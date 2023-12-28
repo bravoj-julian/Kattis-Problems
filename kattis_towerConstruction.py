@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 20 02:36:00 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/tornbygge
 
 x = int(input())

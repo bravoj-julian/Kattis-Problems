@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  4 17:20:39 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/jackolanternjuxtaposition
 
 n = input(" Input your value N,T,M value must be between 1 and 500: ")
 n, t, m = n.split()

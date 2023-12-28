@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  8 20:17:21 2022
+# https://open.kattis.com/problems/sibice
 
-@author: danger bravo
-"""
 import math
 def sibice():
     

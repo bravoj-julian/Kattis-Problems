@@ -1,15 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 00:13:15 2022
-
-@author: danger bravo
-"""
+#https://open.kattis.com/problems/chanukah
 
 p = int(input())
-# print(p)
-# k, l = input().split()
-# m, n = input().split()
-# o, p = input().split()
 
 def holidayCandle(p):
     for i in range(p):

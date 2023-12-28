@@ -1,3 +1,4 @@
+#Tutorial used to help understand
 # https://www.youtube.com/watch?v=7IwRvEoG2G0
 # https://open.kattis.com/problems/humancannonball2
 

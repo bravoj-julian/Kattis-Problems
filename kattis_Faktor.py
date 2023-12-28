@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 12:31:04 2022
-
-@author: danger bravo
-"""
-# import numpy
+# https://open.kattis.com/problems/faktor
 
 a, i = input().split()
 def citationReq(a,i):

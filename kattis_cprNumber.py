@@ -1,4 +1,5 @@
 # https://open.kattis.com/problems/cprnummer
+
 CPRnum = (input())
 # print(CPRnum)
 

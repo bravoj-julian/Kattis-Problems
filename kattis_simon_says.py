@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 17 21:55:56 2022
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/simonsays
 # x = int(input())
 # for i in range(x):

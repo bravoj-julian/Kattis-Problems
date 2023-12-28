@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  8 21:09:37 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/pot
 
 n = int(input())
 def pot(n):

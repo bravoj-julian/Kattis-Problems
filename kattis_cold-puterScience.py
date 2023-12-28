@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  4 23:58:23 2022
-
-@author: danger bravo
-"""
+#https://open.kattis.com/problems/cold
 
 n = input()
 t = input().split()

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  2 18:19:35 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/chopin
 # when there is an unkown number of test cases 
 # and there is no means to break the looop of work

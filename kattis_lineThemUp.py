@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 23 15:04:18 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/lineup
 
 listOG = []

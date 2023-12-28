@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 14 21:48:41 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/grassseed
 
 def seedingGrass():
     cost = float(input())

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 13:25:19 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/oddecho
 
 o = int(input())
 def oddEcho(o):

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 19:11:28 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/spavanac?tab=submissions
 
 h, m = input().split()
 # hour = int(h)

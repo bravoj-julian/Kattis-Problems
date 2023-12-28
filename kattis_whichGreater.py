@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 12:17:35 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/whichisgreater
 
 a,b = input().split()
 def greaterCheck(a, b):

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 21:15:07 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/sorttwonumbers
 
 a,b = input().split()
 def sort2(a,b):

@@ -1,11 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct  6 14:38:43 2022
+# https://open.kattis.com/problems/wordsfornumbers
 
-@author: danger bravo
-"""
-
-number ={
+numberList ={
     "0":"zero",
     "1":"one",
     '2':"two",
@@ -109,8 +104,9 @@ number ={
     }
 def num4words():
     while True:
-        n = input()
-        n = n.split()
+        n = input().split(" ")
+        #n = n.split()
+        print(n)
         # newSen = []
         newSen1 = ""
         firstNum = ""
@@ -147,6 +143,47 @@ def num4words():
                 newSen1 += n[i] + " "
         print(newSen1)
 num4words()
+
+# def num4words():
+#     while True:
+#         n = input()
+#         n = n.split()
+#         # newSen = []
+#         newSen1 = ""
+#         firstNum = ""
+#         hold = ""
+#         # x = ""
+#         for i in range(len(n)):
+#             hold = n[i]
+#             y = hold[0:-1]
+#             if y.isdigit():
+#                 y = int(y)
+#                 if y > 9:
+#                     y = str(y)
+#                     firstNum = number.get(y)
+#                     newSen1 += firstNum
+#                     if "," in n[i][-1]:    
+#                         newSen1 += "," + " "
+#                     elif "." in n[i][-1]:
+#                         newSen1 += "." + " "
+#                     continue
+#             elif n[i]in number.keys():
+#                 hold = n[i]
+#                 f = n[i-1]
+#                 if hold in number.keys() and n[i] == n[0]:        
+#                     firstNum = number.get(hold)
+#                     firstNum = firstNum.capitalize()
+#                     newSen1 += firstNum + " "
+#                 elif hold in number.keys() and "." in f or "!" in f or "?" in f or "\n" in f:
+#                     firstNum = number.get(hold)
+#                     firstNum = firstNum.capitalize()
+#                     newSen1 += firstNum 
+#                 elif hold in number.keys():
+#                     newSen1 += firstNum
+#             else:
+#                 newSen1 += n[i] + " "
+#         print(newSen1)
+# num4words()
 
 # This works below realy well.
 # while True:

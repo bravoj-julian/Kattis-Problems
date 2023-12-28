@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 16 18:31:01 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/metronome
 
 song_length = input()

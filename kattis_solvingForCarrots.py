@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 22:00:41 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/carrots
 
 n = input().split()
 def carrots(n):

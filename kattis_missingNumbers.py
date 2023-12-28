@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  3 13:24:44 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/missingnumbers
 
 

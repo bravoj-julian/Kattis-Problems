@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 13:12:14 2022
-
-@author: danger bravo
-"""
+#https://open.kattis.com/problems/autori
 
 n = input()
 def autori(n):

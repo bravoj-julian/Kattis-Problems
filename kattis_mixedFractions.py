@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 17 19:11:39 2023
-
-@author: danger bravo
-"""
-
 # https://open.kattis.com/problems/mixedfractions
 # print(27//12)
 

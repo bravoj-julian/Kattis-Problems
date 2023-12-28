@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 14 21:32:10 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/greetings
 
 s = input()
 count = 0

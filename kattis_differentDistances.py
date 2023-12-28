@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 23 22:32:58 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/differentdistances
 # absolute Values
 # https://www.mathsisfun.com/numbers/absolute-value.html

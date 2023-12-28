@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 17 10:34:50 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/internationaldates
 
 x = input().split("/")

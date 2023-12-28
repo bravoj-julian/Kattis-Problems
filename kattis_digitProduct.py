@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 19 15:39:14 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/sifferprodukt
 
 x = input()

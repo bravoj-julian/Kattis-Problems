@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  3 01:39:03 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/pervasiveheartmonitor
 
 from sys import stdin

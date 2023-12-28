@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  2 16:18:49 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/thisaintyourgrandpascheckerboard
 
 board = []

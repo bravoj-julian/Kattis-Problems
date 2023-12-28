@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  2 15:38:11 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/t9spelling
 
 phoneConvert = {

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct  7 11:32:30 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/r2
 
 r, s = (input().split())
 r = int(r)

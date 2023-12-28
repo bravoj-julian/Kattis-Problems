@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 19 22:59:20 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/pvbg
 
 

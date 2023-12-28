@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 12 18:11:08 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/fyi
 
 n = input()
 if "555" in n[:3]:

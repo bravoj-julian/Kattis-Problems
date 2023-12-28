@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 23 21:18:34 2023
 
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/erase
 
 x = int(input())

@@ -1,4 +1,5 @@
 # https://open.kattis.com/problems/countthevowels
+
 vowelCount = str(input())
 # vowels = "a" or "e" or "i" or "o" or "u"
 count = 0

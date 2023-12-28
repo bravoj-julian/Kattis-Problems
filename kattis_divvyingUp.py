@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 14 22:52:55 2022
+#https://open.kattis.com/problems/divvyingup
 
-@author: danger bravo
-"""
 
 def div_By_Three():
     n = int(input())

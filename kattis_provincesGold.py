@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  8 01:06:03 2022
-
-@author: danger bravo
-"""
+# https://open.kattis.com/problems/provincesandgold
 
 
 g,s,c = input().split()

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 19 18:08:44 2023
-
-@author: danger bravo
-"""
 # https://open.kattis.com/problems/finalexam2
 
 x = int(input())

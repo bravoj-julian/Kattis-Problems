@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  5 15:36:59 2022
-
-@author: danger bravo
-"""
-
+#https://open.kattis.com/problems/tarifa
 
 x = int(input())
 # print(x)
